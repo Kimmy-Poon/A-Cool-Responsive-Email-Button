@@ -1,7 +1,7 @@
 # A Cool Responsive Email Button
 
 >
-> ![Screenshot](Simple-Navigation-Bar-with-HTML-CSS.gif)
+> ![Screenshot](A-Cool-Responsive-Email-Button_AdobeExpress.gif)
 >
 > This navigation bar was built using [Bootstrap](https://getbootstrap.com/).
 >
