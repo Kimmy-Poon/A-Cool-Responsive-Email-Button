@@ -3,8 +3,6 @@
 >
 > ![Screenshot](A-Cool-Responsive-Email-Button_AdobeExpress.gif)
 >
-> This navigation bar was built using [Bootstrap](https://getbootstrap.com/).
->
 
 ## Here are using the languages as below.
 - [x] HTML
